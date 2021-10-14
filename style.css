@@ -6,3 +6,16 @@ h1{
   text-align:center;
   margin-top:20px;
 }
+main{
+  width:70%;
+  margin:50px auto;
+  border:1px solid black;
+  display:grid;
+}
+.div1{background:#0b3142;}
+.div2{background:#9c92a3;}
+.div3{background:#D6D3F0;}
+.div4{background:#9c92a3;}
+.div5{background:#C6B9CD;}
+.div6{background:#0F5257;}
+.div7{background:#0b3142;}
