@@ -20,17 +20,27 @@ main{
 }
 .div1{background:#0b3142;
   grid-column:1/-1;
+  padding-top:20px;
 }
-.div2{background:#9c92a3;}
-.div3{background:#D6D3F0;}
-.div4{background:#9c92a3;}
+.div2{background:#9c92a3;
+  padding-top:40px;
+}
+.div3{background:#D6D3F0;
+  padding-top:40px;
+}
+.div4{background:#9c92a3;
+  padding-top:40px;
+}
 .div5{background:#C6B9CD;
     grid-row:2/4;
     grid-column:4/5;
+    padding-top:150px;
 }
 .div6{background:#0F5257;
   grid-column:1/4;
+  padding-top:90px;
 }
 .div7{background:#0b3142;
   grid-column:1/-1;
+  padding-top:20px;
 }
